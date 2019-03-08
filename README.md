@@ -1,2 +1,2 @@
 # data_viz
-all data visualization templates
+This repo is used to keep track of all data visualization templates
